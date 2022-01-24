@@ -7,3 +7,5 @@ public class TestCase003 {
     // when we merge and conflict will happen
     //  awesome code
 }
+
+//made a change from GitHub
